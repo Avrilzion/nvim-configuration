@@ -1,4 +1,2 @@
---引入文件
-require('options')
---键盘映射
-require('keymaps')
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
